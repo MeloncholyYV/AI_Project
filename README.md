@@ -1,2 +1,2 @@
 # AI_Project
-assignment
+구유비 AI 프로젝트 
