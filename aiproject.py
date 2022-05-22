@@ -50,7 +50,7 @@ while(1):
     time.sleep(2)
 
 
-    #df.columns = ["price", "quantity", "type", "timestamp"] hoq
+    #df.columns = ["price", "quantity", "type", "timestamp"] maybe correct?
 
 
 
